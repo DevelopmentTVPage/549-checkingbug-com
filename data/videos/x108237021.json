@@ -1,0 +1,95 @@
+{
+    "title": "Dragon Tales.mp4",
+    "description": "dragons",
+    "referenceId": "d805d68d545b1318352cf53e3cb2a895",
+    "date_created": "1501877588",
+    "date_modified": "1503703698",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "108237021",
+    "loginId": "1758397",
+    "entityType": "1",
+    "titleTextEncoded": "media-1-mp4",
+    "category": "",
+    "duration": "120",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "120",
+            "width": 720,
+            "height": 306
+        },
+        "mediaDuration": "120",
+        "prettyDuration": "00:02:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758397\/108237021\/9a6e3\/thumb-d805d68d545b1318352cf53e3cb2a895-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758397\/108237021\/9a6e3\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758397\/108237021\/9a6e3\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758397\/108237021\/cc\/vtt\/en_1503703698.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758397\/108237021\/9a6e3\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 306
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758397\/108237021\/9a6e3\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 306
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758397\/108237021\/9a6e3\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 306
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758397\/108237021\/9a6e3\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 272
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758397\/108237021\/9a6e3\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 136
+            }
+        ]
+    },
+    "transcripts": "zdrbhsdfhbsdfgfsdfg",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "32"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 10.788457
+}
