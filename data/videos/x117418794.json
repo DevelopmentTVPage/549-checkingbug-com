@@ -1,0 +1,46 @@
+{
+    "title": "Ashley Smith Collection | Fall 2014",
+    "description": "Introducing the first RVCA x Ashley Smith signature collection for Fall 2014.",
+    "referenceId": "106480185",
+    "date_created": "1505170193",
+    "date_modified": "1505170193",
+    "tags": "",
+    "sourceId": null,
+    "VIDEO_LENGTH": null,
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "117418794",
+    "loginId": "1758397",
+    "entityType": "1",
+    "titleTextEncoded": "Ashley-Smith-Collection-Fall-2014",
+    "category": "",
+    "duration": null,
+    "settings": "",
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "https:\/\/player.vimeo.com\/external\/106480185.sd.mp4?s=7a5e0b4c87800a9b2ed1d8e383a0b840c095d459&profile_id=112&oauth2_token_id=994715502"
+            }
+        ],
+        "hdvFlag": 0,
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/489609699_960x540.jpg?r=pad",
+        "mediaDuration": 86,
+        "prettyDuration": "01:26",
+        "uploadDate": 1411038099,
+        "tags": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "9",
+        "4",
+        "25"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 234.42401
+}

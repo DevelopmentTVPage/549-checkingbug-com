@@ -1,0 +1,86 @@
+{
+    "title": "BIGBUCKBUNNY.mp4",
+    "description": "",
+    "referenceId": "939da0adac7cd38e8b200528906912a1",
+    "date_created": "1501553104",
+    "date_modified": "1504059062",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "107360165",
+    "loginId": "1758397",
+    "entityType": "1",
+    "titleTextEncoded": "big-buck-bunny-mp4",
+    "category": "",
+    "duration": "60",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "60",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758397\/107360165\/3c637\/thumb-939da0adac7cd38e8b200528906912a1-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758397\/107360165\/3c637\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758397\/107360165\/3c637\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758397\/107360165\/3c637\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758397\/107360165\/3c637\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758397\/107360165\/3c637\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758397\/107360165\/3c637\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758397\/107360165\/3c637\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 0
+}

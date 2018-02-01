@@ -1,0 +1,43 @@
+{
+    "title": "Essence of calculus, chapter 1",
+    "description": "I want you to feel that you could have invented calculus for yourself, and in this first video of the series, we see how unraveling the nuances of a simple geometry question can lead to integrals,...",
+    "referenceId": "WUvTyaaNkzM",
+    "date_created": "1515462081",
+    "date_modified": "1515462081",
+    "tags": null,
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "136909159",
+    "loginId": "1758397",
+    "entityType": "1",
+    "titleTextEncoded": "Essence-of-calculus-chapter-1",
+    "category": null,
+    "duration": 1024,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "3Blue1Brown",
+        "hdvFlag": 1,
+        "description": "I want you to feel that you could have invented calculus for yourself, and in this first video of the series, we see how unraveling the nuances of a simple geometry question can lead to integrals,...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/WUvTyaaNkzM\/maxresdefault.jpg",
+        "videoId": "WUvTyaaNkzM",
+        "mediaDuration": 1024,
+        "prettyDuration": "00:17:04"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18",
+        "9",
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 809.8496
+}
